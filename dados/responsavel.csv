@@ -1,0 +1,21 @@
+id,nome,sobrenome,responsavel_por,media_salarial,mora_no_bairro
+1,Lucas,Silva,"[30, 29]",4000.0,True
+2,Maria,Oliveira,[15],3800.0,True
+3,Ana,Santos,[14],3600.0,True
+4,Carlos,Pereira,[25],3400.0,True
+5,João,Costa,"[28, 17]",3200.0,True
+6,Fernanda,Souza,[16],3000.0,True
+7,Pedro,Alves,[21],2800.0,True
+8,Juliana,Mendes,[23],2600.0,True
+9,Roberto,Gomes,"[9, 13, 7]",2400.0,True
+10,Mariana,Martins,[26],2200.0,True
+11,Lucas,Ribeiro,[4],2000.0,True
+12,Beatriz,Oliveira,[20],1800.0,True
+13,Paulo,Ferreira,[27],2600.0,True
+15,José,Nascimento,[19],1900.0,True
+16,Fernanda,Pinto,[24],1800.0,True
+17,Carlos,Dias,[10],1800.0,True
+19,Ricardo,Silva,[18],2400.0,True
+20,Eduardo,Santos,[22],2200.0,True
+14,Letícia,Lima,[11],2200.0,True
+18,Alice,Costa,[12],1600.0,True

@@ -1,0 +1,18 @@
+services:
+  db:
+    image: postgres:latest
+    container_name: acmk_db
+    environment:
+      POSTGRES_USER: acmk
+      POSTGRES_PASSWORD: senha123
+      POSTGRES_DB: acmk
+    volumes:
+      - ./data/acmk_db:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - acmk_net
+
+networks:
+  acmk_net:
+    driver: bridge
