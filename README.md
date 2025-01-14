@@ -21,6 +21,7 @@ analise-de-dados/
 
 ## Funcionalidades
 
+
 ### Scripts
 - **conexao_postgres.py**: Gerencia conexão com banco PostgreSQL
 - **consultas.py**: Contém as queries SQL
